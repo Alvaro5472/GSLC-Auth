@@ -1,0 +1,6 @@
+1. Clone Project atau Download Project.
+2. Buka Project.
+3. Lakukan composer update.
+4. Pada file .env lakukanlah pengisian nama Database, GOOGLE_CLIENT_ID, dan GOOGLE_CLIENT_SECRET.
+5. Lakukan php artisan migrate:fresh.
+6. Terakhir, tinggal php artisan serve.
